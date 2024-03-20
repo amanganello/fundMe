@@ -1,7 +1,6 @@
 # Foundry Fund Me
 
-
-- [Foundry Fund Me](#foundry-fund-me)
+- [About](#About)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
@@ -16,7 +15,8 @@
 - [Thank you!](#thank-you)
 
 
-# Getting Started
+# About
+  This is a crowd sourcing app!
 
 ## Requirements
 
