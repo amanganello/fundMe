@@ -26,6 +26,8 @@ contract MockV3Aggregator {
         updateAnswer(_initialAnswer);
     }
 
+    function test() public {}
+
     function updateAnswer(int256 _answer) public {
         latestAnswer = _answer;
         latestTimestamp = block.timestamp;
